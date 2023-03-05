@@ -2,8 +2,6 @@
 
 ## Türkiye Deprem Tarihçesi
 
----
-
 ![image](Preview.jpg)
 
 ### ***~Emir Atasoy***
