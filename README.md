@@ -2,6 +2,8 @@
 
 ## Türkiye Deprem Tarihçesi
 
+[Website link](https://eamath.github.io/Insider-Project-Final/)
+
 ![image](Preview.jpg)
 
 ### ***~Emir Atasoy***
