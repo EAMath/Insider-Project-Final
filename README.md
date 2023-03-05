@@ -4,7 +4,7 @@
 
 ---
 
-![image](Prewiev.jpg)
+![image](Preview.jpg)
 
 ### ***~Emir Atasoy***
 [***Patika Dev***](https://app.patika.dev/emiratasoy)
